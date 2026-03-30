@@ -1,0 +1,14 @@
+G:\c# projects\Generations\bin\Debug\net10.0\Generations.exe
+G:\c# projects\Generations\bin\Debug\net10.0\Generations.deps.json
+G:\c# projects\Generations\bin\Debug\net10.0\Generations.runtimeconfig.json
+G:\c# projects\Generations\bin\Debug\net10.0\Generations.dll
+G:\c# projects\Generations\bin\Debug\net10.0\Generations.pdb
+G:\c# projects\Generations\obj\Debug\net10.0\Generations.GeneratedMSBuildEditorConfig.editorconfig
+G:\c# projects\Generations\obj\Debug\net10.0\Generations.AssemblyInfoInputs.cache
+G:\c# projects\Generations\obj\Debug\net10.0\Generations.AssemblyInfo.cs
+G:\c# projects\Generations\obj\Debug\net10.0\Generations.csproj.CoreCompileInputs.cache
+G:\c# projects\Generations\obj\Debug\net10.0\Generations.dll
+G:\c# projects\Generations\obj\Debug\net10.0\refint\Generations.dll
+G:\c# projects\Generations\obj\Debug\net10.0\Generations.pdb
+G:\c# projects\Generations\obj\Debug\net10.0\Generations.genruntimeconfig.cache
+G:\c# projects\Generations\obj\Debug\net10.0\ref\Generations.dll

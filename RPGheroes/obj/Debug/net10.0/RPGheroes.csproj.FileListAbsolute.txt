@@ -1,0 +1,14 @@
+C:\Users\safin\source\repos\RPGheroes\bin\Debug\net10.0\RPGheroes.exe
+C:\Users\safin\source\repos\RPGheroes\bin\Debug\net10.0\RPGheroes.deps.json
+C:\Users\safin\source\repos\RPGheroes\bin\Debug\net10.0\RPGheroes.runtimeconfig.json
+C:\Users\safin\source\repos\RPGheroes\bin\Debug\net10.0\RPGheroes.dll
+C:\Users\safin\source\repos\RPGheroes\bin\Debug\net10.0\RPGheroes.pdb
+C:\Users\safin\source\repos\RPGheroes\obj\Debug\net10.0\RPGheroes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\safin\source\repos\RPGheroes\obj\Debug\net10.0\RPGheroes.AssemblyInfoInputs.cache
+C:\Users\safin\source\repos\RPGheroes\obj\Debug\net10.0\RPGheroes.AssemblyInfo.cs
+C:\Users\safin\source\repos\RPGheroes\obj\Debug\net10.0\RPGheroes.csproj.CoreCompileInputs.cache
+C:\Users\safin\source\repos\RPGheroes\obj\Debug\net10.0\RPGheroes.dll
+C:\Users\safin\source\repos\RPGheroes\obj\Debug\net10.0\refint\RPGheroes.dll
+C:\Users\safin\source\repos\RPGheroes\obj\Debug\net10.0\RPGheroes.pdb
+C:\Users\safin\source\repos\RPGheroes\obj\Debug\net10.0\RPGheroes.genruntimeconfig.cache
+C:\Users\safin\source\repos\RPGheroes\obj\Debug\net10.0\ref\RPGheroes.dll

@@ -1,0 +1,40 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\safin\\source\\repos\\ControlWork1Test\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F6EC35F8-4894-A792-9882-7727877A3418}|..\\c_sharp_praktika_Oskar\\c_sharp_praktika_Oskar.csproj|c:\\users\\safin\\source\\repos\\c_sharp_praktika_oskar\\controlwork25102025.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{56df62a4-05a3-4e5b-aa1a-99371ccfb997}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ControlWork25102025.cs",
+              "DocumentMoniker": "C:\\Users\\safin\\source\\repos\\c_sharp_praktika_Oskar\\ControlWork25102025.cs",
+              "RelativeDocumentMoniker": "..\\c_sharp_praktika_Oskar\\ControlWork25102025.cs",
+              "ToolTip": "C:\\Users\\safin\\source\\repos\\c_sharp_praktika_Oskar\\ControlWork25102025.cs",
+              "RelativeToolTip": "..\\c_sharp_praktika_Oskar\\ControlWork25102025.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-08T09:41:30.269Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

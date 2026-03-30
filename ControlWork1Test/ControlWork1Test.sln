@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36518.9 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ControlWork1Test", "ControlWork1Test.csproj", "{54214C2D-6BE5-4AD6-8C3E-7766B6CA206D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "c_sharp_praktika_Oskar", "..\c_sharp_praktika_Oskar\c_sharp_praktika_Oskar.csproj", "{F6EC35F8-4894-A792-9882-7727877A3418}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{54214C2D-6BE5-4AD6-8C3E-7766B6CA206D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{54214C2D-6BE5-4AD6-8C3E-7766B6CA206D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{54214C2D-6BE5-4AD6-8C3E-7766B6CA206D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{54214C2D-6BE5-4AD6-8C3E-7766B6CA206D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F6EC35F8-4894-A792-9882-7727877A3418}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F6EC35F8-4894-A792-9882-7727877A3418}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F6EC35F8-4894-A792-9882-7727877A3418}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F6EC35F8-4894-A792-9882-7727877A3418}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F592B021-2666-4683-A213-27821B74A361}
+	EndGlobalSection
+EndGlobal

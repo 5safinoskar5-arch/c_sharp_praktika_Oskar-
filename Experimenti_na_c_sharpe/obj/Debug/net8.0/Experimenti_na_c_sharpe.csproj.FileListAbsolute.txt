@@ -1,0 +1,14 @@
+C:\Users\safin\source\repos\Experimenti_na_c_sharpe\bin\Debug\net8.0\Experimenti_na_c_sharpe.exe
+C:\Users\safin\source\repos\Experimenti_na_c_sharpe\bin\Debug\net8.0\Experimenti_na_c_sharpe.deps.json
+C:\Users\safin\source\repos\Experimenti_na_c_sharpe\bin\Debug\net8.0\Experimenti_na_c_sharpe.runtimeconfig.json
+C:\Users\safin\source\repos\Experimenti_na_c_sharpe\bin\Debug\net8.0\Experimenti_na_c_sharpe.dll
+C:\Users\safin\source\repos\Experimenti_na_c_sharpe\bin\Debug\net8.0\Experimenti_na_c_sharpe.pdb
+C:\Users\safin\source\repos\Experimenti_na_c_sharpe\obj\Debug\net8.0\Experimenti_na_c_sharpe.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\safin\source\repos\Experimenti_na_c_sharpe\obj\Debug\net8.0\Experimenti_na_c_sharpe.AssemblyInfoInputs.cache
+C:\Users\safin\source\repos\Experimenti_na_c_sharpe\obj\Debug\net8.0\Experimenti_na_c_sharpe.AssemblyInfo.cs
+C:\Users\safin\source\repos\Experimenti_na_c_sharpe\obj\Debug\net8.0\Experimenti_na_c_sharpe.csproj.CoreCompileInputs.cache
+C:\Users\safin\source\repos\Experimenti_na_c_sharpe\obj\Debug\net8.0\Experimenti_na_c_sharpe.dll
+C:\Users\safin\source\repos\Experimenti_na_c_sharpe\obj\Debug\net8.0\refint\Experimenti_na_c_sharpe.dll
+C:\Users\safin\source\repos\Experimenti_na_c_sharpe\obj\Debug\net8.0\Experimenti_na_c_sharpe.pdb
+C:\Users\safin\source\repos\Experimenti_na_c_sharpe\obj\Debug\net8.0\Experimenti_na_c_sharpe.genruntimeconfig.cache
+C:\Users\safin\source\repos\Experimenti_na_c_sharpe\obj\Debug\net8.0\ref\Experimenti_na_c_sharpe.dll

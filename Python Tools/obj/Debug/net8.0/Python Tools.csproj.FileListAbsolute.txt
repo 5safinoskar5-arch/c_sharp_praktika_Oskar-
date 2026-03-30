@@ -1,0 +1,4 @@
+C:\Users\safin\source\repos\Python Tools\obj\Debug\net8.0\Python Tools.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\safin\source\repos\Python Tools\obj\Debug\net8.0\Python Tools.AssemblyInfoInputs.cache
+C:\Users\safin\source\repos\Python Tools\obj\Debug\net8.0\Python Tools.AssemblyInfo.cs
+C:\Users\safin\source\repos\Python Tools\obj\Debug\net8.0\Python Tools.csproj.CoreCompileInputs.cache

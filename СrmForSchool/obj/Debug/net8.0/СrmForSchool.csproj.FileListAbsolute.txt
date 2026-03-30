@@ -1,0 +1,14 @@
+C:\Users\safin\source\repos\СrmForSchool\obj\Debug\net8.0\СrmForSchool.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\safin\source\repos\СrmForSchool\obj\Debug\net8.0\СrmForSchool.AssemblyInfoInputs.cache
+C:\Users\safin\source\repos\СrmForSchool\obj\Debug\net8.0\СrmForSchool.AssemblyInfo.cs
+C:\Users\safin\source\repos\СrmForSchool\obj\Debug\net8.0\СrmForSchool.csproj.CoreCompileInputs.cache
+C:\Users\safin\source\repos\СrmForSchool\bin\Debug\net8.0\СrmForSchool.exe
+C:\Users\safin\source\repos\СrmForSchool\bin\Debug\net8.0\СrmForSchool.deps.json
+C:\Users\safin\source\repos\СrmForSchool\bin\Debug\net8.0\СrmForSchool.runtimeconfig.json
+C:\Users\safin\source\repos\СrmForSchool\bin\Debug\net8.0\СrmForSchool.dll
+C:\Users\safin\source\repos\СrmForSchool\bin\Debug\net8.0\СrmForSchool.pdb
+C:\Users\safin\source\repos\СrmForSchool\obj\Debug\net8.0\СrmForSchool.dll
+C:\Users\safin\source\repos\СrmForSchool\obj\Debug\net8.0\refint\СrmForSchool.dll
+C:\Users\safin\source\repos\СrmForSchool\obj\Debug\net8.0\СrmForSchool.pdb
+C:\Users\safin\source\repos\СrmForSchool\obj\Debug\net8.0\СrmForSchool.genruntimeconfig.cache
+C:\Users\safin\source\repos\СrmForSchool\obj\Debug\net8.0\ref\СrmForSchool.dll

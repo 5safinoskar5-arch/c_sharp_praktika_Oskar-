@@ -1,0 +1,14 @@
+G:\c# projects\SmartHomeHubCW\bin\Debug\net10.0\SmartHomeHubCW.exe
+G:\c# projects\SmartHomeHubCW\bin\Debug\net10.0\SmartHomeHubCW.deps.json
+G:\c# projects\SmartHomeHubCW\bin\Debug\net10.0\SmartHomeHubCW.runtimeconfig.json
+G:\c# projects\SmartHomeHubCW\bin\Debug\net10.0\SmartHomeHubCW.dll
+G:\c# projects\SmartHomeHubCW\bin\Debug\net10.0\SmartHomeHubCW.pdb
+G:\c# projects\SmartHomeHubCW\obj\Debug\net10.0\SmartHomeHubCW.GeneratedMSBuildEditorConfig.editorconfig
+G:\c# projects\SmartHomeHubCW\obj\Debug\net10.0\SmartHomeHubCW.AssemblyInfoInputs.cache
+G:\c# projects\SmartHomeHubCW\obj\Debug\net10.0\SmartHomeHubCW.AssemblyInfo.cs
+G:\c# projects\SmartHomeHubCW\obj\Debug\net10.0\SmartHomeHubCW.csproj.CoreCompileInputs.cache
+G:\c# projects\SmartHomeHubCW\obj\Debug\net10.0\SmartHomeHubCW.dll
+G:\c# projects\SmartHomeHubCW\obj\Debug\net10.0\refint\SmartHomeHubCW.dll
+G:\c# projects\SmartHomeHubCW\obj\Debug\net10.0\SmartHomeHubCW.pdb
+G:\c# projects\SmartHomeHubCW\obj\Debug\net10.0\SmartHomeHubCW.genruntimeconfig.cache
+G:\c# projects\SmartHomeHubCW\obj\Debug\net10.0\ref\SmartHomeHubCW.dll

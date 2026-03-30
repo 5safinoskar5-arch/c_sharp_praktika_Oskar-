@@ -1,0 +1,14 @@
+G:\c# projects\Handle\obj\Debug\net10.0\Handle.GeneratedMSBuildEditorConfig.editorconfig
+G:\c# projects\Handle\obj\Debug\net10.0\Handle.AssemblyInfoInputs.cache
+G:\c# projects\Handle\obj\Debug\net10.0\Handle.AssemblyInfo.cs
+G:\c# projects\Handle\obj\Debug\net10.0\Handle.csproj.CoreCompileInputs.cache
+G:\c# projects\Handle\bin\Debug\net10.0\Handle.exe
+G:\c# projects\Handle\bin\Debug\net10.0\Handle.deps.json
+G:\c# projects\Handle\bin\Debug\net10.0\Handle.runtimeconfig.json
+G:\c# projects\Handle\bin\Debug\net10.0\Handle.dll
+G:\c# projects\Handle\bin\Debug\net10.0\Handle.pdb
+G:\c# projects\Handle\obj\Debug\net10.0\Handle.dll
+G:\c# projects\Handle\obj\Debug\net10.0\refint\Handle.dll
+G:\c# projects\Handle\obj\Debug\net10.0\Handle.pdb
+G:\c# projects\Handle\obj\Debug\net10.0\Handle.genruntimeconfig.cache
+G:\c# projects\Handle\obj\Debug\net10.0\ref\Handle.dll

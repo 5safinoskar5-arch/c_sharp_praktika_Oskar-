@@ -1,0 +1,14 @@
+G:\c# projects\Algorithms\bin\Debug\net10.0\Algorithms.exe
+G:\c# projects\Algorithms\bin\Debug\net10.0\Algorithms.deps.json
+G:\c# projects\Algorithms\bin\Debug\net10.0\Algorithms.runtimeconfig.json
+G:\c# projects\Algorithms\bin\Debug\net10.0\Algorithms.dll
+G:\c# projects\Algorithms\bin\Debug\net10.0\Algorithms.pdb
+G:\c# projects\Algorithms\obj\Debug\net10.0\Algorithms.GeneratedMSBuildEditorConfig.editorconfig
+G:\c# projects\Algorithms\obj\Debug\net10.0\Algorithms.AssemblyInfoInputs.cache
+G:\c# projects\Algorithms\obj\Debug\net10.0\Algorithms.AssemblyInfo.cs
+G:\c# projects\Algorithms\obj\Debug\net10.0\Algorithms.csproj.CoreCompileInputs.cache
+G:\c# projects\Algorithms\obj\Debug\net10.0\Algorithms.dll
+G:\c# projects\Algorithms\obj\Debug\net10.0\refint\Algorithms.dll
+G:\c# projects\Algorithms\obj\Debug\net10.0\Algorithms.pdb
+G:\c# projects\Algorithms\obj\Debug\net10.0\Algorithms.genruntimeconfig.cache
+G:\c# projects\Algorithms\obj\Debug\net10.0\ref\Algorithms.dll
